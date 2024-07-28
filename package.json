@@ -1,10 +1,10 @@
 {
-  "name": "dayjs-nuxt",
+  "name": "@mkody/dayjs-nuxt",
   "version": "2.1.9",
   "description": "Day.JS Module for Nuxt",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fumeapp/dayjs.git"
+    "url": "git+https://github.com/mkody/dayjs.git"
   },
   "license": "MIT",
   "type": "module",
@@ -21,7 +21,7 @@
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/fumeapp/dayjs",
+  "homepage": "https://github.com/mkody/dayjs",
   "keywords": [
     "nuxt",
     "dayjs"
