@@ -1,6 +1,6 @@
 {
   "name": "@mkody/dayjs-nuxt",
-  "version": "2.1.11",
+  "version": "2.1.12",
   "description": "Day.JS Module for Nuxt",
   "repository": {
     "type": "git",
@@ -38,19 +38,19 @@
     "test:watch": "vitest watch"
   },
   "dependencies": {
-    "@nuxt/kit": "^3.7.4",
-    "dayjs": "^1.11.10"
+    "@nuxt/kit": "^3.14.159",
+    "dayjs": "^1.11.13"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^1.0.0",
-    "@nuxt/eslint-config": "^0.5.2",
-    "@nuxt/module-builder": "^0.8.3",
-    "@nuxt/schema": "^3.7.4",
-    "@nuxt/test-utils": "^3.7.4",
-    "@types/node": "^22.5.0",
-    "changelogen": "^0.5.5",
-    "eslint": "^9.9.1",
-    "nuxt": "^3.13.0",
-    "vitest": "^2.0.5"
+    "@nuxt/devtools": "^1.6.0",
+    "@nuxt/eslint-config": "^0.7.1",
+    "@nuxt/module-builder": "^0.8.4",
+    "@nuxt/schema": "^3.14.159",
+    "@nuxt/test-utils": "^3.14.4",
+    "@types/node": "^22.9.0",
+    "changelogen": "^0.5.7",
+    "eslint": "^9.15.0",
+    "nuxt": "^3.14.159",
+    "vitest": "^2.1.5"
   }
 }
