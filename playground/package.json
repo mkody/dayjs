@@ -5,5 +5,11 @@
     "@unocss/nuxt": "^0.64.1",
     "dayjs-business-days2": "^1.2.2",
     "unocss": "^0.64.1"
+  },
+  "packageManager": "pnpm@10.6.1",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
   }
 }
